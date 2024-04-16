@@ -1,2 +1,3 @@
 # Image formatting
-This repo contains all the image formatting scripts that were needed for previous drone/photogrammetry jobs 
+This repo contains all the image formatting scripts that were needed for previous drone/photogrammetry jobs, or any jobs taht included images for that matter
+
